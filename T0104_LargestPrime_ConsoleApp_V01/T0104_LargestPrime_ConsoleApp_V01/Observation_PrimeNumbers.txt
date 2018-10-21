@@ -1,6 +1,6 @@
 Except for 2 and 3 and their respective multiples, rest of the prime numbers can be found by starting from 5 and incrementing by 6. Either the iterator or (iterator + 2) are probable candidates for being a prime number. This observation is found to be correct atleast till 100.
 
-Prime Numbers types:
+Prime Numbers' Pairs types:
 	1. Twin 
 		- that differ by 2
 	2. Cousin 
